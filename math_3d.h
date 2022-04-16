@@ -1,3 +1,5 @@
+#pragma once
+
 #define	MATH_3D_H
 
 
